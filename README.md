@@ -1,5 +1,7 @@
 # PeriodicPortal - Interactive Periodic Table Lab
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://periodictable-phi-one.vercel.app)
+
 **PeriodicPortal** is a modern, highly interactive, and responsive educational web application designed for students and educators to explore the 118 chemical elements of the periodic table. 
 
 It combines rich aesthetics (neon glowing elements, glassmorphism, responsive grid structures) with active learning tools, a 3D atomic orbital viewer, comparison metrics, trend graphs, gamified progression systems, and a simulated chemistry AI chatbot.
@@ -85,3 +87,13 @@ It combines rich aesthetics (neon glowing elements, glassmorphism, responsive gr
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+
+Made with ❤️ by [Anjan Shetty](https://github.com/codexanjan)
+
+[![GitHub](https://img.shields.io/badge/GitHub-codexanjan-181717?style=flat&logo=github)](https://github.com/codexanjan)
+
+</div>
